@@ -171,6 +171,7 @@ This is a starter python package to analze the slack data to learn about
 * Patter of users messaging behaviour
 * Patter of replies and reactions of users to messages posted both by peers and admins
 * Discover sub-communities by building network graphs of message senders and those who reply or react to those messages
+* Be active in every curcumstance 
 
 
 
